@@ -45,6 +45,7 @@ body {
 .logo {
     float: left;
     width: 14%;
+    font-style: italic;
 }
 
 .logo h1 {
@@ -59,7 +60,7 @@ body {
 }
 
 .logo h1 a span {
-    color: #f81010be;
+    color: #312323be;
 }
 
 .top-nav {
